@@ -1,8 +1,0 @@
-caVersion = 0
-id = com.ixilabs.spixi.walkie-talkie
-publisher = Subsubl
-name = Walkie-Talkie
-version = 1.0.0
-capabilities = multiUser
-protocols = com.ixilabs.spixi.walkie-talkie
-maxUsers = 2
