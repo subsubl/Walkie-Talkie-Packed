@@ -8,6 +8,6 @@ image = walkie-talkie.png
 minUsers = 
 maxUsers = 2
 protocols = com.ixilabs.spixi.walkie-talkie
-contentUrl = walkie-talkie.zip
+contentUrl = walkie-talkie1-0-0.zip
 checksum = f147255b49647de250b6cdc1543a85a03936efff6492a06eb34b4319cb09fd89
 contentSize = 7706
