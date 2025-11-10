@@ -9,5 +9,5 @@ minUsers =
 maxUsers = 2
 protocols = com.ixilabs.spixi.walkie-talkie
 contentUrl = walkie-talkie.zip
-checksum = d4669be195546d6768f02bb52a9993de1571da9de99c3c7ecbcbef2d033dd743
-contentSize = 8338
+checksum = 49ece34649a34f063028133739c5b6fdfbc3cc606897bd455050acf1f0f0a4c8
+contentSize = 1062988
