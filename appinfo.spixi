@@ -1,0 +1,13 @@
+caVersion = 0
+id = com.yourname.walkie.spixi
+publisher = YourName
+name = WalkieTalkie
+version = 1.0.0
+capabilities = multiUser
+image = walkietalkie.png
+minUsers = 
+maxUsers = 
+protocols = 
+contentUrl = walkietalkie.zip
+checksum = a824cddefa531f611bd19aab4ec8ab42446db7c26c99123ee1bbd87d28159fe9
+contentSize = 50465
